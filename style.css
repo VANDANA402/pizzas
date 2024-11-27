@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#out{
+    border: solid 1px;
+    height: 550px;
+    background-image: url(bj2.jpg);
+    background-repeat: no-repeat;
+    background-size: 1000px; 550px;
+}
+h1{
+color: aliceblue;
+    font: 60px;
+    margin-top: 20px;
+    margin-left: 80px;
+}
+#register,#login{
+    height: 30px;
+    width: 150px;
+    background-color: burlywood;
+    
+}
+#register{
+    margin-left: 40px;
+}
+#register,#login a{
+    color: darkgoldenrod;
+    font-size: 20px;
+    text-decoration: none;
+
+}
+#register:hover,#login:hover{
+    background-color: aquamarine;
+
+}
